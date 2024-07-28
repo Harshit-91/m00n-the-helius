@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @m00n
 - 👀 I’m interested in creating interesting things.
 - 🌱 I’m currently learning C++ and Data structures and algorithms.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: HE/THEY
+- 😄 Pronouns: He/They
 - ⚡ Fun fact: Fun fact is a fact which is fun to know.
 
 <!---
